@@ -52,7 +52,7 @@
 <h2 align="center">Spotify Recent & Playing Now</h2>
 <div align="center">
   <a href="https://open.spotify.com/user/31j6e2niuz2idob3kn67hkdg6rda?si=a4SvPP2kT8ye8rqNfuLdlw">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31j6e2niuz2idob3kn67hkdg6rda" alt="Spotify Recently Played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31j6e2niuz2idob3kn67hkdg6rda?si=a4SvPP2kT8ye8rqNfuLdlw" alt="Spotify Recently Played" />
   </a>
   <a href="https://open.spotify.com/user/31j6e2niuz2idob3kn67hkdg6rda?si=a4SvPP2kT8ye8rqNfuLdlw">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31j6e2niuz2idob3kn67hkdg6rda&cover_image=true&theme=default&show_offline=false&background_color=212121&interchange=false&bar_color_cover=true" width="237" alt="Spotify Playing Now" />
