@@ -1,10 +1,11 @@
-
 <div align="center">
-## Hi there <img width="45" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif">, My name is Abdul Malik Matoha
+  <h1><b>Hi there <img width="45" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif">, My name is Abdul Malik Matoha</b></h1>
 
-## A bit about me
-- 📜 I am student at [Gorontalo State University](https://ung.ac.id/), Indonesia
-- 🌱 I'm currently focusing on Frontend Development
+  <h2>A bit About Me</h2>
+  <p>🧑‍🎓 I am student at <a href="https://ung.ac.id/">Gorontalo State University</a>, Indonesia</p>
+  <p>🌱 I'm currently focusing on <strong>Frontend Development</strong></p>
+  <p>💻 I use <strong>Visual Studio Code</strong> for code</p>
+  <p>🎨 I use <strong>Figma</strong> for design</p>
 </div>
 
 <br>
@@ -48,9 +49,12 @@
 
 <br>
 
-### Spotify Recently Played
+<h2 align="center">Spotify Recent & Playing Now</h2>
 <div align="center">
   <a href="https://open.spotify.com/user/31j6e2niuz2idob3kn67hkdg6rda?si=a4SvPP2kT8ye8rqNfuLdlw">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31j6e2niuz2idob3kn67hkdg6rda" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31j6e2niuz2idob3kn67hkdg6rda" alt="Spotify Recently Played" />
+  </a>
+  <a href="https://open.spotify.com/user/31j6e2niuz2idob3kn67hkdg6rda?si=a4SvPP2kT8ye8rqNfuLdlw">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31j6e2niuz2idob3kn67hkdg6rda&cover_image=true&theme=default&show_offline=false&background_color=212121&interchange=false&bar_color_cover=true" width="237" alt="Spotify Playing Now" />
   </a>
 </div>
