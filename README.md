@@ -4,8 +4,6 @@
 - 📜 I am student at [Gorontalo State University](https://ung.ac.id/), Indonesia
 - 🌱 I'm currently focusing on Frontend Development
 
-<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 <br>
 
 <h2 align="center">GitHub Stats</h2>
@@ -20,9 +18,9 @@
 
 <br>
 
-###
+### Spotify Recently Played
 <div align="center">
   <a href="https://open.spotify.com/user/31j6e2niuz2idob3kn67hkdg6rda?si=a4SvPP2kT8ye8rqNfuLdlw">
-    <img src="[https://spotify-recently-played-readme.vercel.app/api?user=31j6e2niuz2idob3kn67hkdg6rda](https://spotify-recently-played-readme.vercel.app/api?user=31j6e2niuz2idob3kn67hkdg6rda&unique={true|1|on|yes})" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31j6e2niuz2idob3kn67hkdg6rda" alt="Spotify recently played" />
   </a>
 </div>
