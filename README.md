@@ -1,8 +1,7 @@
-Hi, my name is **Abdul Malik Matoha**.\. I'm studying at Gorontalo State University, majoring in Information System. I'm really into learning about Web Development
+## Hi there <img width="45" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif">, My name is Abdul Malik Matoha
 
-<p align="left">
-<a href="https://github.com/Malixl">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Malixl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Malixl&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+## A bit about me
+- 📜 I am student at [Gorontalo State University](https://ung.ac.id/), Indonesia
+- 🌱 I'm currently focusing on Frontend Development
+
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
