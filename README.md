@@ -3,7 +3,7 @@
 
   <h2>A Bit About Me</h2>
   <p>🧑‍🎓 I am student at <a href="https://ung.ac.id/">Gorontalo State University</a>, Indonesia</p>
-  <p>🌱 I'm currently focusing on <strong>Frontend Development</strong></p>
+  <p>🌱 Currently focusing on <strong>Frontend Development</strong></p>
   <p>💻 I use <strong>Visual Studio Code</strong> for code</p>
   <p>🎨 I use <strong>Figma</strong> for design</p>
 </div>
@@ -56,5 +56,5 @@
   </a>
   <a href="https://open.spotify.com/user/31j6e2niuz2idob3kn67hkdg6rda?si=a4SvPP2kT8ye8rqNfuLdlw">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31j6e2niuz2idob3kn67hkdg6rda&cover_image=true&theme=default&show_offline=false&background_color=212121&interchange=false&bar_color_cover=true" width="237" alt="Spotify Playing Now" />
-  </a>
+</a>
 </div>
