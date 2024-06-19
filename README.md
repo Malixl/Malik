@@ -55,6 +55,6 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31j6e2niuz2idob3kn67hkdg6rda" alt="Spotify Recently Played" />
   </a>
   <a href="https://open.spotify.com/user/31j6e2niuz2idob3kn67hkdg6rda?si=a4SvPP2kT8ye8rqNfuLdlw">
-    <img src="https://nowplayi.ng/miniplayer.php?refreshToken=AQA6ylu8XxipNkX3Etp1JJKHpmIjpMofpQIAQGc0y8CW0DsnwJS-yEGeZqS7j5xiWTHAk9rbXo3nuTxhF64sWtcPX9xuWlhl127vqh7IImAnU5hp09r5exfppM0z72RBX9I&showAlbum=true&showArtwork=true&showProgress=true&showPause=true&transparentBackground=false&hideOnPauseOrEmpty=false" width="237" alt="Spotify Playing Now" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31j6e2niuz2idob3kn67hkdg6rda&cover_image=true&theme=default&show_offline=false&background_color=212121&interchange=false&bar_color_cover=true" width="237" alt="Spotify Playing Now" />
 </a>
 </div>
