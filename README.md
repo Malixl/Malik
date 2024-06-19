@@ -49,7 +49,7 @@
 
 <br>
 
-<h2 align="center">Spotify</h2>
+<h2 align="center">Recent Jams I've Been Into</h2>
 <div align="center">
   <a href="https://open.spotify.com/user/31j6e2niuz2idob3kn67hkdg6rda?si=a4SvPP2kT8ye8rqNfuLdlw">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31j6e2niuz2idob3kn67hkdg6rda" alt="Spotify Recently Played" />
