@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><b>Hi there <img width="45" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"> <br>My name is Abdul Malik Matoha</b></h1>
+  <h1><b>Hi There <img width="45" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"> <br>My Name Is Abdul Malik Matoha</b></h1>
 
   <h2>A Bit About Me</h2>
   <p>🧑‍🎓 I am student at <a href="https://ung.ac.id/">Gorontalo State University</a>, Indonesia</p>
