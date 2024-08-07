@@ -5,7 +5,7 @@
   <p>🧑‍🎓 I am student at <a href="https://ung.ac.id/">Gorontalo State University</a>, Indonesia</p>
   <p>🌱 Currently focusing on <strong>Frontend Development</strong></p>
   <p>💻 I use <strong>Visual Studio Code</strong> for code</p>
-  <p>🎨 I use <strong>Figma</strong> for design</p>
+  <p>🎨 I use <strong>Figma, AI, & PS</strong> for design</p>
 </div>
 
 <br>
